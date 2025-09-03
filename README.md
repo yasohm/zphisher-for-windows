@@ -123,6 +123,7 @@ This project is licensed under the GNU General Public License v3.0.
 ## Acknowledgments
 
 - **Original Author**: TAHMID RAYAT
+- **Updated by**: yassin benhaida (yasohm)
 - **Windows Adaptation**: Assistant
 - **Contributors**: All contributors to the original project
 
